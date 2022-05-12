@@ -1,3 +1,8 @@
+# Installation
+- Download the executable file.
+```
+pip install win10toast
+```
 ### Initial settings
 - Create `config.txt` file contains 3 lines:
   - Line 1: the directory where you want to create a backup
